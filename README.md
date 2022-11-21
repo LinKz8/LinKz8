@@ -8,9 +8,6 @@
 
 Hi! My name is Tony Vera 'AKA' Linkz, junior developer.
 
-I love learning new things and creating projects that people can enjoy, that's why I started my career creating game servers using my own scripts.
-Also, for years I've been acquiring knowledge together with my community on Twitch.
-
 - 🔭 I’m currently working on TBA.
 - 🌱 I’m currently learning React and Laravel
 - 💬 Ask me about Java, HTML, CSS, JS, SQL...
